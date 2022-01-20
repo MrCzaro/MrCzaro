@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrCzaro
 - 👀 I’m interested in CS as a hobby
-- 🌱 I’m currently learning JS and Python
+- 🌱 I’m currently learning programming conceps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by me e-mail
 
